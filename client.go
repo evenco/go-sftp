@@ -15,7 +15,7 @@ import (
 
 	"github.com/kr/fs"
 
-	"golang.org/x/crypto/ssh"
+	"github.com/evenco/go-crypto/ssh"
 )
 
 // MaxPacket sets the maximum size of the payload.

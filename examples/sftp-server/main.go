@@ -12,7 +12,7 @@ import (
 	"os"
 
 	"github.com/pkg/sftp"
-	"golang.org/x/crypto/ssh"
+	"github.com/evenco/go-crypto/ssh"
 )
 
 // Based on example server code from golang.org/x/crypto/ssh and server_standalone
